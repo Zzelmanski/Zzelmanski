@@ -73,17 +73,15 @@ Software Analyst passionate about learning new technologies, solving business pr
 
 ### Languages
 
-https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white
-https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logop&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badgeostgresql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&e)
 
 ### Tools & Platforms
 
-https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github
-![VS Codemg.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91dge&logo=visualstudio
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-b=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=S Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badgel-studio-code)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-thelstudio)
 
 ---
 
