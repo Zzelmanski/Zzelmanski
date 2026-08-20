@@ -13,7 +13,7 @@
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=for-the-badge
+![Profile Views](https://komarev.com/ghpvc/?username=zzelmanski&color=for-the-badge
 
 </div>
 
@@ -105,8 +105,8 @@ https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github
 
 <div align="center">
 
-![Zach's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ompact&theme=tokyonight
+![Zach's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzelmanski&show_icons
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzelmanski&compact&theme=tokyonight
 
 </div>
 
@@ -180,8 +180,6 @@ public class Zach
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_
 [![Email](https://img.shields.io/badge/Email-Reach_Out-red?style=for-the-badge&logoilto:zthomasz9@yahoo.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?badge](YOUR_POR)
 ---
 
 <div align="center">
