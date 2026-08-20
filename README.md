@@ -80,7 +80,8 @@ Software Analyst passionate about learning new technologies, solving business pr
 ### Tools & Platforms
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-b=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=S Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badgel-studio-code)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=S Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badgel-studio-code)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-thelstudio)
 
 ---
@@ -102,8 +103,8 @@ Software Analyst passionate about learning new technologies, solving business pr
 
 <div align="center">
 
-![Zach's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzelmanski&show_icons
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzelmanski&compact&theme=tokyonight
+![Zach's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzelmanski&show_icons)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzelmanski&compact&theme=tokyonight)
 
 </div>
 
