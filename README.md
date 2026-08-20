@@ -106,8 +106,8 @@ Software Analyst passionate about learning new technologies, solving business pr
 
 <div align="center">
 
-![Zach's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzelmanski&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzelmanski&layout=compact&theme=tokyonight)
+![Zach's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zzelmanski&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zzelmanski&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -179,8 +179,8 @@ public class Zach
 
 # 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_
-[![Email](https://img.shields.io/badge/Email-Reach_Out-red?style=for-the-badge&logoilto:zthomasz9@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]
+[![Email](https://img.shields.io/badge/Email-Reach_Out-red?style=for-the-badge&logoilto:zthomasz9@yahoo.com)]
 ---
 
 <div align="center">
