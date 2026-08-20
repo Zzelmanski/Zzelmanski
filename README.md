@@ -106,8 +106,8 @@ Software Analyst passionate about learning new technologies, solving business pr
 
 <div align="center">
 
-![Zach's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzelmanski&show_icons)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzelmanski&compact&theme=tokyonight)
+![Zach's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzelmanski&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzelmanski&layout=compact&theme=tokyonight)
 
 </div>
 
