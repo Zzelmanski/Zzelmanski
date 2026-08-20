@@ -1,8 +1,14 @@
-# 👋 Hey, I'm Zach Zelmanski
-
 <div align="center">
 
-### Software Analyst | Problem Solver | Builder of Cool Things
+# ⚡ Zach Zelmanski
+4
+ 
+5
+```bash
+> Initializing profile...
+> Loading software analyst skills...
+> Loading caffeine dependency...
+> Ready.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Analyst;Lifelong+Learner;Tech+Enthusiast;AlwaysSomething+New
 
@@ -15,30 +21,20 @@
 ```yaml
 Name: Zach Zelmanski
 Role: Software Analyst
-Location: [📍 Add Location]
+Location: JM Family, Deerfield Beach
 Industry: Information Technology
-Experience: [📝 Add Years Experience]
-
-Currently Working On:
-  - [Add Project]
-  - [Add Project]
-  - [Add Project]
 
 Currently Learning:
-  - [Technology]
-  - [Technology]
-  - [Technology]
+  - C Sharp
+  - Microsoft Azure
+  - ASP.NET
 
 Goals:
-  - [Goal]
-  - [Goal]
+  - Complete the ITS Academy program on time in June
+  - Grow both my technical and professional skills 
 ```
 
 ---
-
-## 💼 Professional Background
-
-> Turning business requirements into technical solutions while continuously improving processes and user experiences.
 
 ### Current Role
 🏢 **Software Analyst**
@@ -84,9 +80,9 @@ https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visua
 ### Future Skills
 
 ```diff
-+ [Technology]
-+ [Technology]
-+ [Technology]
++ API Integration
++ Node.js frontend development
++ PostgreSQL and power BI for data analytics
 ```
 
 ---
@@ -103,38 +99,6 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&lay
 
 ---
 
-## 🌟 Featured Projects
-
-### 🚀 Project One
-**Description:** Add project description
-
-**Tech Stack**
-- Tech 1
-- Tech 2
-- Tech 3
-
-**Highlights**
-- Feature 1
-- Feature 2
-- Feature 3
-
----
-
-### 💡 Project Two
-**Description:** Add project description
-
-**Tech Stack**
-- Tech 1
-- Tech 2
-- Tech 3
-
----
-
-### 🔥 Project Three
-**Description:** Add project description
-
----
-
 ## 🎯 Beyond The Keyboard
 
 ### Hobbies & Interests
@@ -146,9 +110,6 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&lay
 ✈️ [Travel]
 🎵 [Music]
 🏈 [Sports]
-☕ [Coffee Enthusiast]
-📸 [Photography]
-🔧 [DIY Projects]
 ```
 
 ### Random Facts About Me
@@ -184,7 +145,7 @@ public class Zach
         "Analytics"
     ];
 
-    public bool LovesCoffee => true;
+    public bool LovesCaffeine => true;
 }
 ```
 
@@ -196,7 +157,6 @@ public class Zach
 - [ ] Contribute to open source
 - [ ] Build a full-stack application
 - [ ] Improve cloud architecture knowledge
-- [ ] Publish a technical blog
 - [ ] Reach ____ GitHub contributions
 
 ---
