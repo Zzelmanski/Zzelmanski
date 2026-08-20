@@ -75,16 +75,16 @@ Software Analyst passionate about learning new technologies, solving business pr
 ### Languages
 
 https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badgeostgresql&logoColor=white
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-ershell&logoColor=white
+https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
 
 ### Tools & Platforms
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazurer=white
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badgeit&logoColor=white
-![GitHub](https://img.shields.io/badge/GitHub-181717?styleadge&logo=github
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?he-badge&logo=visual-studio-code
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&
+https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github
+![VS Codemg.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91dge&logo=visualstudio
 
 ---
 
@@ -105,7 +105,8 @@ https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoCol
 
 <div align="center">
 
-![Zach's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true& Languages](https://github-readme-stats.vercel.app/api/top-langs/?usernameyout=compact&theme=tokyonight
+![Zach's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ompact&theme=tokyonight
 
 </div>
 
@@ -177,12 +178,10 @@ public class Zach
 
 # 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logoUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_
+[![Email](https://img.shields.io/badge/Email-Reach_Out-red?style=for-the-badge&logoilto:zthomasz9@yahoo.com)
 
-[![Email](https://img.shields.io/badge/Email-Reach_Out-red?the-badge&logo=gmail](mailto:YOUR_EMAIL)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](YOUR
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?badge](YOUR_POR)
 ---
 
 <div align="center">
