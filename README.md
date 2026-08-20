@@ -9,7 +9,7 @@
 > Ready.
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Analyst;Lifelong+ch+Enthusiast;Always+Building+Something+New">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Analyst;Lifelong+Code+Enthusiast;Always+Building+Something+New">
 <br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zzelmanski&color=blueviolet&style=for-the-badge)
